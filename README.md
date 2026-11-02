@@ -16,8 +16,8 @@ Revisit past sessions any time
 Your entries are private to your account
 
 ## Tech Stack
-*Frontend: React + Vite
-*Backend: FastAPI (Python)
-*AI: Google Gemini
-*Auth: JWT
+* Frontend: React + Vite
+* Backend: FastAPI (Python)
+* AI: Google Gemini
+* Auth: JWT
 
