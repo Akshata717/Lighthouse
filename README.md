@@ -8,15 +8,16 @@ A quiet, CBT-inspired journaling app with real accounts: write freely or from a 
 Create an account and log in securely
 
 Write freely or start from a guided prompt
+
 Get a gentle AI reflection on what you wrote
+
 Revisit past sessions any time
+
 Your entries are private to your account
-Tech Stack
-Frontend: React + Vite
-Backend: FastAPI (Python)
-AI: Google Gemini
-Auth: JWT
-Project Structure
-lighthouse/
-  frontend/   React + Vite app (see frontend/README.md)
-  backend/    FastAPI app: auth, sessions, Gemini reflection (see backend/README.md)
+
+## Tech Stack
+*Frontend: React + Vite
+*Backend: FastAPI (Python)
+*AI: Google Gemini
+*Auth: JWT
+
