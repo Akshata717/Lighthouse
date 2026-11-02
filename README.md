@@ -6,6 +6,7 @@ A quiet, CBT-inspired journaling app with real accounts: write freely or from a 
 
 ## Features
 Create an account and log in securely
+
 Write freely or start from a guided prompt
 Get a gentle AI reflection on what you wrote
 Revisit past sessions any time
