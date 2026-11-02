@@ -1,10 +1,10 @@
-The Lighthouse
+## The Lighthouse
 
 A quiet, CBT-inspired journaling app with real accounts: write freely or from a prompt, get an AI reflection back, and revisit past sessions.
 
 * in progress
 
-Features
+## Features
 Create an account and log in securely
 Write freely or start from a guided prompt
 Get a gentle AI reflection on what you wrote
